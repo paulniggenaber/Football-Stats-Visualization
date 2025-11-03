@@ -1,4 +1,55 @@
-# Football-Stats-Visualization
-Scraped Data from the Top 5 leagues in European football is used to give interesting insights into individual player and team performances in the timeframe from 2018 - 2025.
+# Data Projects
 
-This project was done in the context of the first semster course Big Data Curation in my Master in Data Science for Business. It is the first of two parts, where the second part is concerned about prediciting transfer fees based on individual player data. The assignment can be found in BDassignment1.pdf.
+This repository contains a collection of data analysis and data science projects.  
+Each project focuses on a specific topic, methodology, or dataset, demonstrating different analytical and programming techniques in Python (and other tools where applicable).
+
+---
+
+## 📁 Project Overview
+
+### 🧩 Project 1 — *[Project Title]*
+**Overview:**  
+Briefly describe the purpose of the project (2–3 sentences). Mention what question/problem it addresses, what data is used, and what methods or models are applied.
+
+**Highlights:**
+- Data source: [link or description]
+- Main techniques: e.g., regression, clustering, NLP, time series analysis
+- Key result: short, one-line outcome (optional)
+
+---
+
+### 📊 Project 2 — *[Project Title]*
+**Overview:**  
+(2–3 sentence summary explaining the focus, approach, and goal.)
+
+**Highlights:**
+- Data source: ...
+- Main techniques: ...
+- Key result: ...
+
+---
+
+### 🤖 Project 3 — *[Project Title]*
+**Overview:**  
+(2–3 sentences about the motivation, dataset, and analytical approach.)
+
+**Highlights:**
+- Data source: ...
+- Main techniques: ...
+- Key result: ...
+
+---
+
+## 🧠 Skills and Tools
+Each project demonstrates practical applications of:
+- **Programming:** Python, R, SQL  
+- **Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn, etc.  
+- **Techniques:** data cleaning, visualization, statistical analysis, machine learning, optimization  
+- **Tools:** Jupyter Notebook, Git, Streamlit, Excel
+
+---
+
+## 🚀 How to Use
+Clone this repository:
+```bash
+git clone https://github.com/<your-username>/data-projects.git
