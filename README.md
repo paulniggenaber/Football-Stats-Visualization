@@ -3,7 +3,7 @@
 This repository contains a collection of data analysis and data science projects that can be found in this repository. 
 
 ---
-### Football player performance visualization
+### Football-Player-Performance
 
 In this project I used scraped data from the top 5 leagues from fbref.com to analyse individual player performance maing use of metrics measuring expected outcomes. 
 
@@ -12,7 +12,7 @@ In this project I used scraped data from the top 5 leagues from fbref.com to ana
 - Context of the project: Master of Data Science for Business at BI Norwegian Business School, 1. semester assignment in course 'Big Data Curation'
 ---
 
-### Predicting football transfer fees using ML techniques on individual player data
+### Predicting-Football-Transfer-Fees
 
 In this project I want to find out how the predictive power of individual player data is for the prediction of transfer fees. 
 While it is shown that there is some predictive power, I also discuss the limitations given by the data and the inherent nature of the formation of transfer fees in professional football.
