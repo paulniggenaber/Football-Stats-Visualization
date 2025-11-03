@@ -1,6 +1,6 @@
 # Projects Overview
 
-This repository contains a collection of data analysis and data science projects that can be found in this repository. 
+This list contains a comprehensive overview of data projects that can be found in this repository. 
 
 ---
 ### Football-Player-Performance
