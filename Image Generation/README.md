@@ -19,13 +19,13 @@ implementation skills for machine learning and data science roles.
 - Object-oriented programming in Python  
 - t-SNE dimensionality reduction
   
-## Project Structure
-├── train_vae.py # Main training script with argparse interface
-├── vae.py # VAE model, Encoder, Decoder, training logic
-├── dataloader.py # Loads MNIST (color or bw), batching, normalization
-├── utils.py # Helper functions (saving images etc.)
-├── argparser.py # Argument parser with dataset/epoch/output options
-└── losses.py # KL divergence and log-likelihood implementations
+## Project Files
+train_vae.py # Main training script with argparse interface
+vae.py # VAE model, Encoder, Decoder, training logic
+dataloader.py # Loads MNIST (color or bw), batching, normalization
+utils.py # Helper functions (saving images etc.)
+argparser.py # Argument parser with dataset/epoch/output options
+losses.py # KL divergence and log-likelihood implementations
 
 ## Files
 bw_data.zip contains:
