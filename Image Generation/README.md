@@ -28,9 +28,12 @@ implementation skills for machine learning and data science roles.
 └── losses.py # KL divergence and log-likelihood implementations
 
 ## Files
+bw_data.zip contains:
 - mnist_bw.npy -> black and white training images
 - mnist_bw_te.npy -> black and white test images
 - mnist_bw_y_te.npy -> label for black and white images
+  
+color_data.zip contains
 - mnist_color.pkl -> colored training images
 - mnist_color_te.pkl -> colored test images
 - mnist_color_y_te.npy -> label for colored images
