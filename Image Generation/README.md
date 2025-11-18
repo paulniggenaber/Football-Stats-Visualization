@@ -30,10 +30,10 @@ implementation skills for machine learning and data science roles.
 ## Files
 - mnist_bw.npy -> black and white training images
 - mnist_bw_te.npy -> black and white test images
-- mnist_bw_y_te.npy -> label black and white images
-- mnist_bw.pkl -> black and white training images
-- mnist_bw_te.pkl -> black and white test images
-- mnist_bw_y_te.npy -> label black and white images
+- mnist_bw_y_te.npy -> label for black and white images
+- mnist_color.pkl -> colored training images
+- mnist_color_te.pkl -> colored test images
+- mnist_color_y_te.npy -> label for colored images
 
 ## Features
 - Trains a VAE on MNIST color or MNIST black-and-white  
@@ -58,10 +58,10 @@ The script automatically generates:
 - sample generations from the decoder  
 
 ## Requirements
-tensorflow
-numpy
-matplotlib
-sklearn
-pickle
-wget (for downloading files which are also provided here)
+- tensorflow
+- numpy
+- matplotlib
+- sklearn
+- pickle
+- wget (for downloading files which are also provided here)
 
